@@ -68,7 +68,7 @@
         android:text="@string/lock_button"
         android:onClick="onActivate"
         android:layout_gravity="center_horizontal"
-        android:background="#109bbc"
+        android:background="@drawable/capsule"
         android:textColor="#ffffff"
         android:textSize="16sp"
         android:layout_marginTop="51dp"
